@@ -1,0 +1,21 @@
+ {
+    "nome": "Elaine Maciel",
+    "profissao": "Administradora",
+    "endereco": "Imbiribeira",
+    "email": "elainemaciel21@yahoo.com.br",
+    "telefone": "81 99973-3633",
+    "skills": [
+        {
+            "nome": "Javascript",
+            "range": "70%"
+        },
+        {
+            "nome": "HTML",
+            "range": "80%"
+        },
+        {
+            "nome": "CSS",
+            "range": "90%"
+        }
+    ]
+}
